@@ -2,7 +2,7 @@
 
 ![SVMA Logo](https://cdn3.emoji.gg/emojis/1130-junimojam.gif)
 
-[![GitHub license](https://img.shields.io/github/license/mindsetpro/SVMA)](https://github.com/mindsetpro/SVMA-Modding-API/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mindsetpro/SVMA)](https://github.com/mindsetpro/SVMA-Modding-API/blob/mind/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/mindsetpro/SVMA)](https://github.com/mindsetpro/SVMA-Modding-API/issues)
 [![GitHub stars](https://img.shields.io/github/stars/mindsetpro/SVMA)](https://github.com/mindsetpro/SVMA-Modding-API/stargazers)
 
