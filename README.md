@@ -35,7 +35,7 @@ Join our community on [SVMA Modding Discord](https://discord.gg/DNUMZjCJ) to con
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an [issue](https://github.com/yourusername/SVMA/issues).
+If you encounter any issues or have questions, feel free to open an [issue](https://github.com/mindsetpro/SVMA-Modding-API/issues).
 
 ## License
 
